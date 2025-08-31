@@ -1,0 +1,169 @@
+# Security Knowledge Base
+
+## Account Security
+
+### Suspected Account Compromise
+If you suspect your account has been compromised:
+1. Change your password immediately
+2. Enable two-factor authentication (2FA)
+3. Review recent login activity in Security Settings
+4. Check for unauthorized changes to account settings
+5. Review billing history for suspicious charges
+6. Sign out all devices: Security Settings > Sign Out All Sessions
+7. Contact support immediately for security review
+
+### Password Security Best Practices
+Creating strong passwords:
+1. Use minimum 12 characters
+2. Include uppercase, lowercase, numbers, and symbols
+3. Avoid personal information (birthdate, name, etc.)
+4. Use unique password for each account
+5. Consider using password manager
+6. Enable password strength meter in settings
+7. Change passwords every 90 days for high-security accounts
+
+## Two-Factor Authentication (2FA)
+
+### Setting Up 2FA
+To enable two-factor authentication:
+1. Go to Account Settings > Security > Two-Factor Authentication
+2. Choose method: Authenticator app (recommended) or SMS
+3. Scan QR code with authenticator app (Google Authenticator, Authy)
+4. Enter verification code to confirm setup
+5. Download and securely store backup codes
+6. Test 2FA by logging out and back in
+
+### 2FA Recovery Options
+If you lose access to 2FA:
+1. Use backup codes saved during setup
+2. Try alternative 2FA method if configured
+3. Contact support with account verification details
+4. Provide government ID for identity verification
+5. Security team will review and reset 2FA access
+6. Process may take 24-48 hours for security
+
+## Data Privacy and Protection
+
+### Data Access and Downloads
+To access your personal data:
+1. Navigate to Privacy Settings > Data Export
+2. Select data types to include in export
+3. Click "Request Data Export"
+4. Download link sent to registered email within 48 hours
+5. Link expires after 7 days for security
+6. Files provided in standard formats (JSON, CSV)
+
+### Account Deletion and Data Removal
+To permanently delete your account:
+1. Go to Account Settings > Privacy > Delete Account
+2. Complete identity verification process
+3. Select data retention options
+4. Confirm deletion understanding (irreversible)
+5. Account disabled immediately
+6. Data permanently deleted within 30 days
+7. Some legal/compliance data may be retained as required
+
+## Privacy Controls
+
+### Privacy Settings Management
+Configure your privacy preferences:
+1. Profile Visibility: Public, Friends Only, Private
+2. Data Sharing: Control analytics and marketing preferences
+3. Contact Permissions: Who can message or contact you
+4. Search Visibility: Whether profile appears in search results
+5. Third-Party Access: Review and revoke app permissions
+6. Marketing Communications: Email, SMS, push notification preferences
+
+### Third-Party App Permissions
+Managing connected applications:
+1. Review connected apps: Settings > Privacy > Connected Apps
+2. Revoke access for unused applications
+3. Check permissions granted to each app
+4. Set data sharing limitations
+5. Monitor recent access activity
+6. Enable notifications for new app connections
+
+## Security Monitoring
+
+### Suspicious Activity Detection
+Our system monitors for:
+- Multiple failed login attempts
+- Logins from unusual locations
+- Account settings changes
+- Large data downloads
+- API access pattern changes
+- Payment method modifications
+
+You'll receive alerts via email for suspicious activity.
+
+### Login Activity Review
+Check your login history:
+1. Go to Security Settings > Login Activity
+2. Review recent sessions by date, location, device
+3. Look for unfamiliar locations or devices
+4. Click "This wasn't me" for suspicious sessions
+5. System will prompt security actions
+6. Change password if any unauthorized access detected
+
+## Incident Response
+
+### Reporting Security Issues
+If you discover a security vulnerability:
+1. Do NOT post publicly about the issue
+2. Email security@company.com immediately
+3. Include detailed steps to reproduce
+4. Provide screenshots if safe to do so
+5. Do not test vulnerability on production systems
+6. We'll respond within 24 hours with next steps
+
+### Data Breach Response
+In case of suspected data breach:
+1. Change all account passwords immediately
+2. Enable 2FA if not already active
+3. Monitor financial accounts for unauthorized activity
+4. Review credit reports for suspicious activity
+5. Consider identity monitoring services
+6. Follow official company communications for updates
+
+## Compliance and Legal
+
+### GDPR Rights (EU Users)
+Under GDPR you have rights to:
+- Access your personal data
+- Correct inaccurate information
+- Delete your data (right to be forgotten)
+- Port data to another service
+- Restrict processing of your data
+- Object to data processing
+
+Contact privacy@company.com to exercise these rights.
+
+### Security Certifications
+Our platform maintains:
+- SOC 2 Type II compliance
+- ISO 27001 certification
+- GDPR compliance
+- CCPA compliance for California users
+- Regular third-party security audits
+- Industry-standard encryption protocols
+
+## Emergency Security Procedures
+
+### Immediate Actions for Compromised Account
+1. Change password from secure device
+2. Enable 2FA immediately
+3. Sign out all active sessions
+4. Review and remove suspicious connected apps
+5. Check recent account activity and transactions
+6. Contact support with "SECURITY URGENT" in subject line
+7. Monitor accounts for 30 days post-incident
+
+### Phishing and Social Engineering Prevention
+Red flags to watch for:
+- Emails asking for password or personal information
+- Urgent requests to click links or download files
+- Impersonation of company staff requesting access
+- Unusual payment or account verification requests
+- Links that don't match official company domains
+
+Always verify suspicious communications through official channels.

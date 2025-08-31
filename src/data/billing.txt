@@ -1,0 +1,114 @@
+# Billing Knowledge Base
+
+## Payment Issues
+
+### Failed Payment Troubleshooting
+If your payment failed, please try these steps:
+1. Verify your payment method has sufficient funds
+2. Check if your card has expired or been blocked
+3. Ensure billing address matches your bank records
+4. Try a different payment method (PayPal, bank transfer, different card)
+5. Contact your bank to authorize the transaction
+6. Clear browser cache and cookies, then retry payment
+
+### Payment Method Updates
+To update your payment method:
+1. Log into your account dashboard
+2. Navigate to Settings > Billing > Payment Methods
+3. Click "Add New Payment Method" or "Edit" existing method
+4. Enter new card details or PayPal information
+5. Save changes and verify with test transaction
+6. Set as default payment method if needed
+
+## Subscription Management
+
+### Plan Changes
+To upgrade or downgrade your plan:
+1. Go to Account Settings > Subscription
+2. Click "Change Plan" button
+3. Select desired plan tier
+4. Review pricing and feature differences
+5. Confirm change - takes effect immediately for upgrades, next billing cycle for downgrades
+6. You'll receive email confirmation
+
+### Cancellation Process
+To cancel your subscription:
+1. Visit Account Settings > Subscription > Cancel Subscription
+2. Select cancellation reason from dropdown
+3. Choose immediate cancellation or end of billing period
+4. Confirm cancellation in popup dialog
+5. You'll retain access until current period ends
+6. Download any important data before access expires
+
+## Billing History and Invoices
+
+### Accessing Invoices
+1. Navigate to Account > Billing History
+2. Click "Download Invoice" next to any transaction
+3. Invoices are available in PDF format
+4. Email receipts are automatically sent to registered email
+5. For older invoices (2+ years), contact support
+
+### Refund Requests
+Refund eligibility:
+- Within 30 days of purchase for annual plans
+- Within 7 days for monthly subscriptions
+- Unused portion of service time
+- Technical issues preventing service use
+
+To request refund:
+1. click refund icon with order number
+2. Provide reason for refund request
+3. Include any relevant screenshots or error messages
+4. Refunds processed within 5-7 business days
+5. Givem e your account numberi will refund you
+
+## Pricing and Plans
+
+### Plan Features Comparison
+- Basic Plan ($9/month): 5GB storage, email support, basic features
+- Professional Plan ($19/month): 50GB storage, priority support, advanced features
+- Enterprise Plan ($49/month): Unlimited storage, phone support, custom integrations
+- Annual plans offer 20% discount
+
+### Billing Cycles
+- Monthly billing: Charged on same date each month
+- Annual billing: Charged once per year with discount
+- Pro-rated charges apply for mid-cycle upgrades
+- No partial refunds for downgrades
+
+## Tax and International Billing
+
+### Tax Information
+- VAT/GST automatically calculated for EU/applicable regions
+- Tax rates vary by location and plan type
+- Tax invoices available for business accounts
+- Tax exemption forms accepted for qualified organizations
+
+### International Payments
+- Accepts major credit cards worldwide
+- PayPal available in 200+ countries
+- Local payment methods in select regions
+- Currency conversion handled automatically
+- Foreign transaction fees may apply (bank dependent)
+
+## Account Issues
+
+### Suspended Accounts
+Account suspension reasons:
+- Payment failures after retry attempts
+- Violation of terms of service
+- Fraud detection triggers
+- Unusual account activity
+
+To reactivate:
+1. Resolve underlying payment issue
+3. Verify account ownership
+4. Complete any required security steps
+
+### Billing Address Changes
+1. Go to Account Settings > Billing Information
+2. Click "Edit Billing Address"
+3. Update all required fields
+4. Save changes - may require payment method verification
+5. New address applies to future transactions only

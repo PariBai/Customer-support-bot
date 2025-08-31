@@ -1,0 +1,38 @@
+# Company Policies (Dummy File for QA Review)
+
+## Subscription Management
+- Users can upgrade or downgrade their plans anytime from Account Settings > Subscription.
+- Upgrades take effect immediately.
+- Downgrades take effect at the next billing cycle.
+-  Support agents cannot manually change plans for users.
+
+## Payment Issues
+- Accepted payment methods: Credit Card, PayPal, Bank Transfer.
+- Failed payments must be retried within 7 days to avoid account suspension.
+- Refunds require manager approval and cannot be promised directly to customers.
+-  Agents must never say "We will refund" or give a specific refund timeline.
+-  Agents shoulld say like refunding depends on manager approval. you need to contact them.
+-  Agents must not request sensitive financial details (full card numbers, CVV, etc.).
+
+## Support
+- Priority support is available for Premium users.
+- Users can open tickets via the Support Portal or email.
+-  Do not provide personal phone numbers for support.
+
+## Security
+- Two-factor authentication (2FA) is recommended for all accounts.
+- Passwords must be at least 8 characters with one special character.
+- Suspicious login attempts trigger automatic account locks.
+-  Agents must not unlock accounts manually or share internal security procedures.
+
+## Data Privacy
+- User data will not be shared with third parties without consent.
+- Data deletion requests can be made at any time.
+- Backups are retained for 30 days before permanent deletion.
+-  Do not provide raw database exports directly to customers.
+
+Account Reactivation:
+if user asks for reactivation account steps agent should properly list those steps not generic answer
+
+
+Agent should never mention any private company details like company current projects, or employees contact info.

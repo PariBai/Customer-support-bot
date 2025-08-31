@@ -1,0 +1,9 @@
+{
+  "app": "app:app",
+  "graphs": {
+    "default": "app:app"
+  },
+  "dependencies": [
+    "langgraph"
+  ]
+}
