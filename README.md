@@ -92,7 +92,13 @@ Expected: If the agent cannot resolve after two review cycles, the case is escal
 
 ## 📹 Demo Video
 
-[Watch the demo here](https://your-demo-video-link.com)
+[Watch the demo here]
+I recorded the demo in multiple parts because Loom’s free plan has a 5-minute limit. The videos are provided in sequence below (total length ~14 minutes):
+1.https://www.loom.com/share/3e459be009c24ac89a55e913590f5e9f?sid=38921454-8e5a-44d5-b7f7-5378a331e4dc
+2.https://www.loom.com/share/9dd8440cf705435d980d742e58cc2c65?sid=ecfd5c6b-6b89-472b-8027-b7a80dba32bf
+3.https://www.loom.com/share/2c273d002096494ba8e46c2194e1d456?sid=4ac545d5-079a-40fe-920c-8ac567254fab
+4.https://www.loom.com/share/b26f514b13d8432d81bd1c01493b2e6a?sid=3000afa9-012e-4b83-b803-d97f98dd2189
+I recommend watching them in order. These cover the complete walkthrough of the project, including the happy path, retries, escalation flow, and design explanations.
 
 ---
 
