@@ -127,4 +127,3 @@ I recommend watching them in order. These cover the complete walkthrough of the 
 
 ---
 
-**Enjoy building safe, policy-compliant customer
